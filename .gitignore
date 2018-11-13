@@ -1,2 +1,15 @@
 app/website/__pycache__/
+.vscode/
 AUTHORS
+*.sqlite3
+Backups/
+CachedData/
+CachedExtensions/
+Cookies
+Cookies-journal
+Preferences
+User/
+languagepacks.json
+logs/
+machineid
+storage.json
