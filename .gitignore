@@ -13,3 +13,9 @@ languagepacks.json
 logs/
 machineid
 storage.json
+.idea/
+Cache/
+GPUCache/
+Local Storage/
+app/djangoapp/migrations/__pycache__/
+__pycache__/

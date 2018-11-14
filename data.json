@@ -1,0 +1,9 @@
+{
+    [
+        {"name": "Product #001", "description": "Description of Product #001", "price": 1.25, "image": ""},
+        {"name": "Product #002", "description": "Description of Product #002", "price": 2.30, "image": ""},
+        {"name": "Product #003", "description": "Description of Product #003", "price": 1.4, "image": ""},
+        {"name": "Product #004", "description": "Description of Product #004", "price": 1.80, "image": ""},
+        {"name": "Product #005", "description": "Description of Product #005", "price": 4.25, "image": ""},
+    ]
+}
